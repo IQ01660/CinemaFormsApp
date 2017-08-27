@@ -1,0 +1,9 @@
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\bin\Debug\TheCinemaProblem.exe.config
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\bin\Debug\TheCinemaProblem.exe
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\bin\Debug\TheCinemaProblem.pdb
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\obj\Debug\TheCinemaProblem.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\obj\Debug\TheCinemaProblem.Form1.resources
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\obj\Debug\TheCinemaProblem.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\obj\Debug\TheCinemaProblem.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\obj\Debug\TheCinemaProblem.exe
+c:\users\home\documents\visual studio 2015\Projects\TheCinemaProblem\TheCinemaProblem\obj\Debug\TheCinemaProblem.pdb
